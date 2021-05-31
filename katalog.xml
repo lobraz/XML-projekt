@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<Katalog>
+   <Pjesma>
+      <Slika>img/01.jpg</Slika>
+      <Naziv>Matroda, Bleu Clair - Disco Tool</Naziv>
+      <Zanr>House/Tech</Zanr>
+      <Vrsta>Singl</Vrsta>
+      <GodinaIzdanja>2021</GodinaIzdanja>
+      <Cijena>1.29</Cijena>
+      
+   </Pjesma>
+   <Pjesma>
+    <Slika>img/02.jpg</Slika>  
+    <Naziv>Apashe - I'm Fine (IMANU Remix)</Naziv>
+    <Zanr>House</Zanr>
+    <Vrsta>Remix</Vrsta>
+    <GodinaIzdanja>2021</GodinaIzdanja>
+    <Cijena>1.49</Cijena>
+    
+ </Pjesma>
+ <Pjesma>
+    <Slika>img/03.jpg</Slika>
+    <Naziv>LANARD - Got In Me EP</Naziv>
+    <Zanr>House/Tech</Zanr>
+    <Vrsta>EP</Vrsta>
+    <GodinaIzdanja>2021</GodinaIzdanja>
+    <Cijena>2.49</Cijena>
+    
+ </Pjesma>
+ <Pjesma>
+    <Slika>img/04.jpg</Slika>
+    <Naziv>San Pacho - Give It Up</Naziv>
+    <Zanr>House/Tech</Zanr>
+    <Vrsta>Singl</Vrsta>
+    <GodinaIzdanja>2021</GodinaIzdanja>
+    <Cijena>1.29</Cijena>
+    
+ </Pjesma>
+ <Pjesma>
+    <Slika>img/05.jpg</Slika>
+    <Naziv>IMANU - A Taste Of Hope</Naziv>
+    <Zanr>Dnb</Zanr>
+    <Vrsta>Singl</Vrsta>
+    <GodinaIzdanja>2021</GodinaIzdanja>
+    <Cijena>0.99</Cijena>
+    
+ </Pjesma>
+ <Pjesma>
+    <Slika>img/06.jpg</Slika>
+    <Naziv>John Summit - Make Me Feel</Naziv>
+    <Zanr>Tech</Zanr>
+    <Vrsta>Singl</Vrsta>
+    <GodinaIzdanja>2021</GodinaIzdanja>
+    <Cijena>1.29</Cijena>
+    
+ </Pjesma>
+ <Pjesma>
+    <Slika>img/07.jpg</Slika>
+    <Naziv>QUIX - Heads Or Tails</Naziv>
+    <Zanr>Trap</Zanr>
+    <Vrsta>Singl</Vrsta>
+    <GodinaIzdanja>2020</GodinaIzdanja>
+    <Cijena>1.99</Cijena>
+    
+ </Pjesma>
+ <Pjesma>
+    <Slika>img/08.jpg</Slika>
+    <Naziv>Malaa - Four Twenty</Naziv>
+    <Zanr>tech</Zanr>
+    <Vrsta>Singl</Vrsta>
+    <GodinaIzdanja>2020</GodinaIzdanja>
+    <Cijena>1.99</Cijena>
+    
+ </Pjesma>
+</Katalog>
